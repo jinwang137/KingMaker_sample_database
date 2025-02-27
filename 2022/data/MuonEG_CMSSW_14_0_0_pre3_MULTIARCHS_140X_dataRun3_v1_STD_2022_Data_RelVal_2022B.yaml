@@ -1,0 +1,10 @@
+dbs: /MuonEG/CMSSW_14_0_0_pre3_MULTIARCHS-140X_dataRun3_v1_STD_2022_Data_RelVal_2022B-v2/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre3_MULTIARCHS/MuonEG/NANOAOD/140X_dataRun3_v1_STD_2022_Data_RelVal_2022B-v2/2580000/9fdff470-cfcf-45bb-83bc-abf04a29e10f.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: MuonEG_CMSSW_14_0_0_pre3_MULTIARCHS_140X_dataRun3_v1_STD_2022_Data_RelVal_2022B
+sample_type: data
+xsec: 1.0

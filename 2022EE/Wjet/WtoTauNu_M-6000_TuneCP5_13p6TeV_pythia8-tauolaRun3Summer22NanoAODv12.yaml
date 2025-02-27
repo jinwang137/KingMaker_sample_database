@@ -1,0 +1,20 @@
+dbs: /WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v3/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/1543429b-bcc3-46a1-9938-5ae763805131.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/33e3d84c-9470-4d92-a86b-9a1a43fdd757.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2560000/2978937a-f5aa-4c95-ba50-875294cc526e.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/60000/590557b1-8d1a-449b-9e2b-6d9a5a4fc645.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/60000/73c9d1d6-5eb1-4e23-babe-ac1271bbc242.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/19daf294-6acd-4ff7-b8bc-184bde959733.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/39efbff6-1d12-40df-bbfa-cd606312a5bd.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/4fe02f0b-f39a-4ff4-849b-3fab5ea23ab9.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/5fed9607-7a4d-4a19-8fae-4f53bc8694f7.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/aed9c8ae-aa83-4c85-910e-2fea2ca07d8e.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauola/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/70000/f37815e2-8432-4126-9753-b66f71593b9b.root
+generator_weight: 1.0
+nevents: 11
+nfiles: 11
+nick: WtoTauNu_M-6000_TuneCP5_13p6TeV_pythia8-tauolaRun3Summer22NanoAODv12
+sample_type: Wjet
+xsec: 1.0

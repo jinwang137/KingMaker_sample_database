@@ -1,0 +1,11 @@
+dbs: /ZZto2L2Nu-2Jets_EW_TuneCP5_13p6TeV_madgraph-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/ZZto2L2Nu-2Jets_EW_TuneCP5_13p6TeV_madgraph-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2520000/705aead3-8e1f-4904-9132-6c47d094b893.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/ZZto2L2Nu-2Jets_EW_TuneCP5_13p6TeV_madgraph-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2520000/c96bd015-d3b5-4e6d-8589-d49d05b61963.root
+generator_weight: 1.0
+nevents: 2
+nfiles: 2
+nick: ZZto2L2Nu-2Jets_EW_TuneCP5_13p6TeV_madgraph-pythia8Run3Summer22NanoAODv12
+sample_type: VV
+xsec: 1.0

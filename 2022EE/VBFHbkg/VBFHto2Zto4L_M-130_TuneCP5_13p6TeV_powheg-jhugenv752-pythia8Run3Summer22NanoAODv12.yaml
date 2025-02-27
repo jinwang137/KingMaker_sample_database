@@ -1,0 +1,21 @@
+dbs: /VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v3/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/10220625-938f-4438-8569-53af659c554d.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/1a8bcd95-f8c8-4b71-b909-5b929e7096c5.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/36db160c-b1b9-4244-976e-86be2f3c10a6.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/3af4f265-954b-4437-86fa-3aa4037ec050.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/535687cd-321e-4c27-839a-fa14d46b4c01.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/9c5a53ab-8339-476d-bf59-9d0b73f9a26a.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/af9f4c62-54dc-440a-b3e0-a122c884ea07.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/c6a217f4-f916-411b-9855-8eb10848d2f1.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/dea5d8c3-badb-44de-90e2-8bd1431db5c2.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/ed00aa9a-f696-40c6-bac9-3d821edf4b55.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/edf84f3f-96e9-40c2-a1a4-258aefb2b4db.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/50000/edfd0598-421c-4e89-a7a6-c9a0965ac8b9.root
+generator_weight: 1.0
+nevents: 12
+nfiles: 12
+nick: VBFHto2Zto4L_M-130_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8Run3Summer22NanoAODv12
+sample_type: VBFHbkg
+xsec: 1.0

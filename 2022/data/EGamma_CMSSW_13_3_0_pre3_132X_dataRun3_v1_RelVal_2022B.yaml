@@ -1,0 +1,10 @@
+dbs: /EGamma/CMSSW_13_3_0_pre3-132X_dataRun3_v1_RelVal_2022B-v3/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre3/EGamma/NANOAOD/132X_dataRun3_v1_RelVal_2022B-v3/2590000/eec03280-e3f3-4cee-884f-d3daf8d9d788.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: EGamma_CMSSW_13_3_0_pre3_132X_dataRun3_v1_RelVal_2022B
+sample_type: data
+xsec: 1.0

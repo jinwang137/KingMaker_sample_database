@@ -1,0 +1,15 @@
+dbs: /Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/012976e7-83b1-4c3e-b8aa-3edafd709e6e.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/2afe708f-2bc0-4623-8b7b-07d4dfda3840.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/442b4bcd-f889-4161-bdd1-63f205963374.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/8930346c-c19d-48c1-8a74-d2b67dec55df.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/ad6932e1-4e9f-4512-b830-d38b285611d7.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/f9953187-8b1a-4296-8d54-303c17eb6f45.root
+generator_weight: 1.0
+nevents: 6
+nfiles: 6
+nick: Zto2Q-2Jets_PTQQ-400to600_2J_TuneCP5_13p6TeV_amcatnloFXFX-pythia8Run3Summer22NanoAODv12
+sample_type: ZtoQQ
+xsec: 1.0

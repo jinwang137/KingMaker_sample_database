@@ -1,0 +1,18 @@
+dbs: /VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v3/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/0f89d12c-2bf5-46a6-b76d-5f876ed04609.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/2e8e7a2a-305b-4889-83dc-5fb0081725ba.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/6b8417b1-68ee-4ab1-b3cb-581d056158d8.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/73315847-88eb-49ee-a143-1a203fd73051.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/ba083a2e-fcae-47bc-9397-cb4d0bfcc590.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/bda9a8b7-f886-4946-815d-2763557369ae.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/e9b5f99f-e6d9-4b16-ae46-3563fd5afb37.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/f570aaed-def7-43ba-bdd1-e0c4fad7323c.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v3/2550000/f8f23479-5761-4f21-846b-76df60338add.root
+generator_weight: 1.0
+nevents: 9
+nfiles: 9
+nick: VBFHto2Zto4L_M-750_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8Run3Summer22NanoAODv12
+sample_type: VBFHbkg
+xsec: 1.0

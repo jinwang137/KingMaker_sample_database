@@ -1,0 +1,14 @@
+dbs: /EGamma/Run2022A-22Sep2023-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/22Sep2023-v1/30000/2cc593be-b594-4e26-9830-7e2430015b50.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/22Sep2023-v1/30000/38996428-c093-42d3-aeae-e50561213f27.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/22Sep2023-v1/30000/d148dd8b-8f9b-4929-b4fe-3159efa2dd5f.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/22Sep2023-v1/30000/ed9c00fe-d4fc-4e84-a1a4-b8a5a9e4c61c.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/22Sep2023-v1/30000/faad272c-0e18-416c-9ea1-49bbc4f97e87.root
+generator_weight: 1.0
+nevents: 5
+nfiles: 5
+nick: EGamma_Run2022A_22Sep2023
+sample_type: data
+xsec: 1.0

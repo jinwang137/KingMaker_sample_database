@@ -1,0 +1,12 @@
+dbs: /JetMET/CMSSW_14_0_0_pre1-133X_dataRun3_v4_RelVal_2022D-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre1/JetMET/NANOAOD/133X_dataRun3_v4_RelVal_2022D-v1/2590000/28cbb9ea-65f6-43bd-888e-02e8580abf3f.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre1/JetMET/NANOAOD/133X_dataRun3_v4_RelVal_2022D-v1/2590000/3101465b-b21d-4589-8746-ec75341eb7e6.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre1/JetMET/NANOAOD/133X_dataRun3_v4_RelVal_2022D-v1/2590000/4b959926-7bae-41f1-88bb-33e45823b69e.root
+generator_weight: 1.0
+nevents: 3
+nfiles: 3
+nick: JetMET_CMSSW_14_0_0_pre1_133X_dataRun3_v4_RelVal_2022D
+sample_type: data
+xsec: 1.0

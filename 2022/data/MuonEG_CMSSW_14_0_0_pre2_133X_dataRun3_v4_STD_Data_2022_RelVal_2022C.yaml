@@ -1,0 +1,11 @@
+dbs: /MuonEG/CMSSW_14_0_0_pre2-133X_dataRun3_v4_STD_Data_2022_RelVal_2022C-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre2/MuonEG/NANOAOD/133X_dataRun3_v4_STD_Data_2022_RelVal_2022C-v1/2590000/4687d974-759f-4671-885e-e913530f8848.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre2/MuonEG/NANOAOD/133X_dataRun3_v4_STD_Data_2022_RelVal_2022C-v1/2590000/4c85701c-96d6-447e-ae6c-70e1c18373e7.root
+generator_weight: 1.0
+nevents: 2
+nfiles: 2
+nick: MuonEG_CMSSW_14_0_0_pre2_133X_dataRun3_v4_STD_Data_2022_RelVal_2022C
+sample_type: data
+xsec: 1.0

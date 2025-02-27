@@ -1,0 +1,19 @@
+dbs: /QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2530000/b227f46c-85b1-4d48-bfd2-fc6271a58b68.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2530000/eada42de-18c3-449c-b877-da455aa10754.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/096b21b9-4e6c-464b-84a2-ff777b67edec.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/a4428908-6654-4510-a559-3b9d8384fb03.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/3c145351-ec7c-467a-9c9b-5f5c07730e0f.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/8f7ec9da-a822-4c90-981e-1dc445415b93.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/4dfa4722-adf6-4aed-8403-4667a0bc9220.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/5d28f715-d99a-4f23-8715-81ea6ea0f927.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/7c6386f1-0fb4-4dc0-9195-e345c4be6112.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/983c60c3-e684-4c47-b32c-57fea3755e7d.root
+generator_weight: 1.0
+nevents: 10
+nfiles: 10
+nick: QCD_PT-600toInf_TuneCP5_13p6TeV_pythia8Run3Summer22NanoAODv12
+sample_type: QCD
+xsec: 1.0

@@ -1,0 +1,18 @@
+dbs: /TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2520000/815dad4c-f2b2-4ead-835a-c48668eef943.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2530000/d781bd23-a60a-4d8a-ad31-5eee8f2bb24f.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/082dd56d-c878-4bf7-b3fa-a11728791973.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/4e056761-9870-4b1a-b6ec-e1dee1c856be.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/5286eb8a-cfa7-4234-a282-f19e7c2420e1.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/e723def3-f8af-40d3-b62b-061865feeb31.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/0dfb8ca5-ef67-4585-a0aa-a09b0567c36b.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/213a4c1c-be10-46ad-b89c-5edfb185289a.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgen/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/d1be2547-f377-40d4-a209-89bf2203b3c5.root
+generator_weight: 1.0
+nevents: 9
+nfiles: 9
+nick: TTtoBsto2Tau_BsFilter_TauTauFilter_TuneCP5_13p6TeV_pythia8-evtgenRun3Summer22NanoAODv12
+sample_type: TTBar
+xsec: 1.0

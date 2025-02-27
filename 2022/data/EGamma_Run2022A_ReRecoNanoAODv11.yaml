@@ -1,0 +1,14 @@
+dbs: /EGamma/Run2022A-ReRecoNanoAODv11-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/ReRecoNanoAODv11-v1/2540000/0db7307e-05b5-471d-8cc8-421b1128424d.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/ReRecoNanoAODv11-v1/2540000/763fa010-c6a3-494f-8486-e741f9ec7885.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/ReRecoNanoAODv11-v1/2540000/8cf172b3-585a-4db3-9561-42268f5ff413.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/ReRecoNanoAODv11-v1/2540000/9a6eea9d-eff5-4221-b59d-06f4f15525af.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/EGamma/NANOAOD/ReRecoNanoAODv11-v1/2540000/b73f0733-212b-4f0b-a5f2-91aa4578c203.root
+generator_weight: 1.0
+nevents: 5
+nfiles: 5
+nick: EGamma_Run2022A_ReRecoNanoAODv11
+sample_type: data
+xsec: 1.0

@@ -1,0 +1,13 @@
+dbs: /GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/020200bb-1a56-4250-887c-2e04bd10e100.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/6166af69-63e2-447e-aae2-a9b150254cc3.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/b427505f-9ec3-4af1-8d40-4f9128394a3a.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/c2ed2bb5-c95a-4a68-bfcf-ef7ed53f75b4.root
+generator_weight: 1.0
+nevents: 4
+nfiles: 4
+nick: GluGluHtoZZto4L_M-2000_TuneCP5_13p6TeV_powheg-jhugen-pythia8Run3Summer22NanoAODv12
+sample_type: ggHbkg
+xsec: 1.0

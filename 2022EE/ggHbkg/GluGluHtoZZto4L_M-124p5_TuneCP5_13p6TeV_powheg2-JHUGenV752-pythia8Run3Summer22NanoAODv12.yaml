@@ -1,0 +1,26 @@
+dbs: /GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2520000/28b181a2-3ef5-4ffa-8e70-9eff44bcdc04.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/0bea3f70-1fe2-415d-932d-e8f99080de79.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/b0ff0db3-b2cd-48a5-bd07-eb5aa050b2e3.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/bae6a8d6-8512-4f24-ab79-63dbe13f30ac.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/1dd084f4-edad-43f8-906b-985fc54b45fe.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/58714227-ed56-42ad-ba7f-92dd0e357bec.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/6801caee-d1b2-49ce-bba3-9ec85d1589a9.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/7a961767-3112-480c-ad46-fbf477e0eb2f.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/edc5e313-3fb6-4e40-ae06-4036687b1a4b.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/1952d91f-0700-4ce1-9f1c-24561bfdb456.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/205c8849-afa8-4180-bd1a-bdf6fafd6ba6.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/523d9313-6460-4802-8cc9-d907b91f5b9f.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/7e83e8ab-d022-40c1-bbc1-ca0c41ed8c27.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/8e701df2-d573-47e3-a6ac-18dd321d03c5.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/ccf327d0-413a-42b3-a77b-86bbc5cc79ba.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/de1fb0ea-a701-4ac9-994e-3d916176356a.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/60000/9897bf11-112b-4134-be71-f285441b35b3.root
+generator_weight: 1.0
+nevents: 17
+nfiles: 17
+nick: GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg2-JHUGenV752-pythia8Run3Summer22NanoAODv12
+sample_type: ggHbkg
+xsec: 1.0

@@ -1,0 +1,14 @@
+dbs: /MuonEG/Run2022A-ReRecoNanoAODv11-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/MuonEG/NANOAOD/ReRecoNanoAODv11-v1/2540000/28ce0b0e-5564-45e9-a065-a1f687a0df6d.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/MuonEG/NANOAOD/ReRecoNanoAODv11-v1/2540000/4465571d-2321-44fc-b4fa-b72d321d5051.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/MuonEG/NANOAOD/ReRecoNanoAODv11-v1/2540000/796fe302-7325-4cf0-af8c-8af22755c118.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/MuonEG/NANOAOD/ReRecoNanoAODv11-v1/2540000/9d1dfdfb-5420-44a1-9021-cf4b05478925.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/MuonEG/NANOAOD/ReRecoNanoAODv11-v1/2540000/d3b66deb-597e-4a50-9725-38967900e383.root
+generator_weight: 1.0
+nevents: 5
+nfiles: 5
+nick: MuonEG_Run2022A_ReRecoNanoAODv11
+sample_type: data
+xsec: 1.0

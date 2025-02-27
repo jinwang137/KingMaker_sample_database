@@ -1,0 +1,10 @@
+dbs: /JetMET1/Tier0_REPLAY_2024-PromptReco-v20222211/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/backfill/1/data/Tier0_REPLAY_2024/JetMET1/NANOAOD/PromptReco-v20222211/000/379/413/00000/24b46438-03de-4f1b-b083-60e396947a76.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: JetMET1_Tier0_REPLAY_2024_PromptReco
+sample_type: data
+xsec: 1.0

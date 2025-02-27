@@ -1,0 +1,19 @@
+dbs: /QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2530000/e177f042-dfe5-444d-8b41-98cd35f16dbd.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/0aa21019-d7cb-4a03-bfcc-7c094f009c4d.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2540000/21a583c0-598e-4cee-b6bc-109595b66422.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/45d25190-3920-41cc-b75d-0503cd78e6fd.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/662c389f-28a7-4e77-a70c-88d836921270.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/30000/696b6139-b2d9-4b7c-8094-6be7d29cfeee.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/68096e42-8bdc-4c0b-9ed2-005ec8968ecd.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/ead0eb28-b646-49b4-a095-41613f9cf9c2.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/fea88ce9-999a-4669-ab4c-a3c3910ba0ab.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/d41d4c25-dd59-4a6e-a551-77afa98c5c21.root
+generator_weight: 1.0
+nevents: 10
+nfiles: 10
+nick: QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13p6TeV_pythia8Run3Summer22NanoAODv12
+sample_type: QCD
+xsec: 1.0

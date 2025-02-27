@@ -1,0 +1,25 @@
+dbs: /GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/2450a22d-a408-4e20-9197-c963dcccc243.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/2738c072-aaee-490b-a475-ffbb7a5c3ab7.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/2a761c07-2a3e-4274-8712-bdb8433c3c1a.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/2fe62598-e553-4fcb-8050-7e0a3c9db41d.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/3c54b9aa-e70a-43f9-a20b-3dcaed1418d0.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/52e53f00-1931-42fc-818a-4c42005f370b.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/792a3d8b-8b2f-413b-bb2b-cb6f98e355f1.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/80676ffd-be0e-4431-bd02-4d382ddbd31c.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/91d14994-5431-4cfe-9aa8-df584bf098f0.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/a367eda1-1bab-40fb-90b0-767aeb546a93.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/c0932cdc-43ac-44d8-9cb0-16937e8dd0bb.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/cfed5a4f-7fa6-4996-89ef-b0765160cf71.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/d8957925-63c7-4153-a9d7-5f69f1609432.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/da774487-bd30-4384-b8d8-fe0d83ccd3f8.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/e1d5e01b-e2ed-4c43-9e30-c1e6918474b2.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2830000/f6a7855e-ab4a-4580-b624-7dc9786fdb55.root
+generator_weight: 1.0
+nevents: 16
+nfiles: 16
+nick: GluGluHtoZZto4L_g1-1_g2-1p65684_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8Run3Summer22NanoAODv12
+sample_type: ggHbkg
+xsec: 1.0

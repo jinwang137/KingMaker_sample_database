@@ -1,0 +1,10 @@
+dbs: /JetMET/CMSSW_14_1_0_pre3-140X_dataRun3_v3_STD_2022_Data_RelVal_2022D-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_1_0_pre3/JetMET/NANOAOD/140X_dataRun3_v3_STD_2022_Data_RelVal_2022D-v1/2580000/024a13ea-e40e-466e-9a78-beb0e4b43b2c.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: JetMET_CMSSW_14_1_0_pre3_140X_dataRun3_v3_STD_2022_Data_RelVal_2022D
+sample_type: data
+xsec: 1.0

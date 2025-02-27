@@ -1,0 +1,16 @@
+dbs: /MuonEG/Run2022B-22Sep2023-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/0307d4b4-8d0f-4183-93ed-eb11b295a168.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/16dd06ad-e4cd-4747-b7cc-3da168150191.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/55caaf47-765c-4962-b649-7b09f06eaf6a.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/5a0ecc36-1f54-484f-bb0e-b5fd40e7bae0.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/72a3b55d-8fd6-4b74-977c-72fdbfd4aafa.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/8526d876-fb4b-4b5c-b6bd-e964f6e787e5.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/MuonEG/NANOAOD/22Sep2023-v1/50000/947809ff-822e-4a3a-84a2-d3fe84fc2573.root
+generator_weight: 1.0
+nevents: 7
+nfiles: 7
+nick: MuonEG_Run2022B_22Sep2023
+sample_type: data
+xsec: 1.0

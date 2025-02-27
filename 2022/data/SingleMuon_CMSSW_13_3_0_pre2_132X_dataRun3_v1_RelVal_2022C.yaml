@@ -1,0 +1,11 @@
+dbs: /SingleMuon/CMSSW_13_3_0_pre2-132X_dataRun3_v1_RelVal_2022C-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre2/SingleMuon/NANOAOD/132X_dataRun3_v1_RelVal_2022C-v1/2580000/6b488ad6-d02c-4863-a264-5e1f951715b2.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre2/SingleMuon/NANOAOD/132X_dataRun3_v1_RelVal_2022C-v1/2580000/be333ce7-fa4d-432f-a098-53316864fff0.root
+generator_weight: 1.0
+nevents: 2
+nfiles: 2
+nick: SingleMuon_CMSSW_13_3_0_pre2_132X_dataRun3_v1_RelVal_2022C
+sample_type: data
+xsec: 1.0

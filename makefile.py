@@ -20,12 +20,14 @@ def process_input_string(input_string, show = False, sample_type="data"):
         era = "2023"
     elif "Run2023D" in input_string:
         era = "2023BPix"
+    elif "2022" in input_string:
+        era = "2022"
     dataset = input_string.split("/")[1]
     sample_type = sample_type
     nick = input_string.split("/")[1] +  input_string.split("/")[2].split("-")[0]
     if sample_type == "data":
         nick = input_string.split("/")[1] + "_"+  input_string.split("/")[2].split("-")[0] +"_"+ input_string.split("/")[2].split("-")[1]
-    # xsec = 1.0
+    xsec = 1.0
 
     # Define the output file path based on the nick variable
     output_path = f"{nick}.yaml"
@@ -46,12 +48,12 @@ def process_input_string(input_string, show = False, sample_type="data"):
             f.write("filelist:\n")
             for file in files:
                 f.write("- root://xrootd-cms.infn.it//{}\n".format(file))
-            # f.write("generator_weight: 1.0\n")
+            f.write("generator_weight: 1.0\n")
             f.write("nevents: {}\n".format(len(files)))
             f.write("nfiles: {}\n".format(len(files)))
             f.write("nick: {}\n".format(nick))
             f.write("sample_type: {}\n".format(sample_type))
-            # f.write("xsec: {}\n".format(xsec))
+            f.write("xsec: {}\n".format(xsec))
 
     # Print the output file contents
     # if not show:
@@ -64,7 +66,8 @@ if __name__ == '__main__':
         txt_file = sys.argv[1]
         show = int(sys.argv[2])
         
-        sample_type_lst = ["dyjets", "wjets", "ttbar", "data", "rem_hbb", "diboson", "wg", "singletop", "dyjets", "ggh_htautau", "vbf_htautau"]
+        sample_type_lst = ["dyjets", "wjets", "ttbar", "data", "rem_hbb", "diboson", "wg", "singletop", "dyjets", "ggh_htautau", "vbf_htautau", 
+                            "VBFHH", "ggFHH", "ZtoQQ", "DYto2L", "ttH", "TTBar", "ttV", "VV", "QCD", "Wjet", "ggHbkg", "VBFHbkg", "ZHbkg", "WHbkg", "dataforbbtt"]
         for s in sample_type_lst:
             if s in txt_file:
                 sample_type = s

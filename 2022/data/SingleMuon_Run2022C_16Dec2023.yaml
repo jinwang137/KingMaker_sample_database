@@ -1,0 +1,26 @@
+dbs: /SingleMuon/Run2022C-16Dec2023-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/0a0b3638-91b0-481f-80e8-5db38c1f9961.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/20ad69d6-a37e-420a-a396-0932b49e2f0b.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/2dd3054f-bf93-48d8-a6a5-8e5d89806ca8.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/2e7fd442-fded-42be-abc0-30f01d30e56e.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/31f18b8a-334f-41a9-83a9-77f9723b896f.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/3b6ba063-4f81-44e5-934c-4f301724e5bc.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/46ff4e59-985f-4f63-9266-92f1de0b4cd7.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/4d0327f8-4bb5-478a-a300-83e8686eab5b.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/57749259-0917-494b-b140-0ea02999b16f.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/578b7213-edd2-4821-9e19-318603197cf8.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/9255782a-4e41-43df-9f4a-cf3c46b3527a.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/a85eb637-9ea7-4f6b-b14a-cacec9ae6e4a.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/ba50071d-3700-4e09-be47-b96fc36ea58c.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/e040babe-5669-471e-af11-f0a8c0c8575c.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/e45b2346-b1b5-4af9-afc3-cc4ce2fc81de.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/f6fd2850-c736-4720-b274-96f75408fa35.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/SingleMuon/NANOAOD/16Dec2023-v1/50000/fefcf88a-9dbd-481e-bdf1-64c426937eb9.root
+generator_weight: 1.0
+nevents: 17
+nfiles: 17
+nick: SingleMuon_Run2022C_16Dec2023
+sample_type: data
+xsec: 1.0

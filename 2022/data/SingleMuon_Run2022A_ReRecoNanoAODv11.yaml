@@ -1,0 +1,14 @@
+dbs: /SingleMuon/Run2022A-ReRecoNanoAODv11-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/SingleMuon/NANOAOD/ReRecoNanoAODv11-v1/2540000/484fbf29-e20c-4a06-9ff1-dba7767d4eb7.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/SingleMuon/NANOAOD/ReRecoNanoAODv11-v1/2540000/7e864297-1dc5-4451-b559-054b4c0a3da1.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/SingleMuon/NANOAOD/ReRecoNanoAODv11-v1/2540000/b6b233d2-0438-40a9-888f-341bece68b02.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/SingleMuon/NANOAOD/ReRecoNanoAODv11-v1/2540000/c1d67987-d96b-452f-8ee1-cc09bf322496.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/SingleMuon/NANOAOD/ReRecoNanoAODv11-v1/2540000/dbbd423b-5184-4c51-b756-67bb7f7471fb.root
+generator_weight: 1.0
+nevents: 5
+nfiles: 5
+nick: SingleMuon_Run2022A_ReRecoNanoAODv11
+sample_type: data
+xsec: 1.0

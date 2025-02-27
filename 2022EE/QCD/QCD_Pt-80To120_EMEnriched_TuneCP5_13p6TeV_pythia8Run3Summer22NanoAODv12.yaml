@@ -1,0 +1,12 @@
+dbs: /QCD_Pt-80To120_EMEnriched_TuneCP5_13p6TeV_pythia8/Run3Summer22NanoAODv12-130X_mcRun3_2022_realistic_v5-v2/NANOAODSIM
+era: 2022EE
+filelist:
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_EMEnriched_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/2530000/80f8351c-1266-45e0-a505-f8fd2029e800.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_EMEnriched_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/201e3c27-751b-44bb-aa21-c8a1c4d53baf.root
+- root://xrootd-cms.infn.it///store/mc/Run3Summer22NanoAODv12/QCD_Pt-80To120_EMEnriched_TuneCP5_13p6TeV_pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/50000/2e0ea3f9-6e3d-46d8-8d53-4448d28d3cfc.root
+generator_weight: 1.0
+nevents: 3
+nfiles: 3
+nick: QCD_Pt-80To120_EMEnriched_TuneCP5_13p6TeV_pythia8Run3Summer22NanoAODv12
+sample_type: QCD
+xsec: 1.0

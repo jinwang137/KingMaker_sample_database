@@ -1,0 +1,10 @@
+dbs: /SingleMuon/CMSSW_15_0_0_pre3-141X_dataRun3_v5_STD_2022_Data_RelVal_2022C-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/CMSSW_15_0_0_pre3/SingleMuon/NANOAOD/141X_dataRun3_v5_STD_2022_Data_RelVal_2022C-v1/2540000/d8c30bbd-e7d8-4f33-9e76-29e5da589722.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: SingleMuon_CMSSW_15_0_0_pre3_141X_dataRun3_v5_STD_2022_Data_RelVal_2022C
+sample_type: data
+xsec: 1.0

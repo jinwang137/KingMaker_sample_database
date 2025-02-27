@@ -1,0 +1,10 @@
+dbs: /MuonEG/CMSSW_14_0_0_pre0_ROOT630-133X_dataRun3_v3_RelVal_2022C-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_14_0_0_pre0_ROOT630/MuonEG/NANOAOD/133X_dataRun3_v3_RelVal_2022C-v1/2590000/f31951a0-14f0-4bc3-8d4c-c105b553f8eb.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: MuonEG_CMSSW_14_0_0_pre0_ROOT630_133X_dataRun3_v3_RelVal_2022C
+sample_type: data
+xsec: 1.0
