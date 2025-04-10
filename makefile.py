@@ -67,7 +67,8 @@ if __name__ == '__main__':
         show = int(sys.argv[2])
         
         sample_type_lst = ["dyjets", "wjets", "ttbar", "data", "rem_hbb", "diboson", "wg", "singletop", "dyjets", "ggh_htautau", "vbf_htautau", 
-                            "VBFHH", "ggFHH", "ZtoQQ", "DYto2L", "ttH", "TTBar", "ttV", "VV", "QCD", "Wjet", "ggHbkg", "VBFHbkg", "ZHbkg", "WHbkg", "dataforbbtt"]
+                            "VBFHH", "ggFHH", "ZtoQQ", "DYto2L", "ttH", "TTBar", "ttV", "VV", "QCD", "Wjet", "ggHbkg", "VBFHbkg", "ZHbkg", "WHbkg", "dataforbbtt",
+                            "tx"]
         for s in sample_type_lst:
             if s in txt_file:
                 sample_type = s
