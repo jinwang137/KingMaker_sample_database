@@ -1,0 +1,15 @@
+dbs: /JetHT/Run2022A-22Sep2023-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/1da4134f-060e-4d62-b4cb-45058917832b.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/3f03ec0b-735a-49f2-bb12-ed519ef28b83.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/636542f8-b57f-4920-8831-49db714f806b.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/8462f471-861e-41b3-9b52-d9ee3efb7240.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/aeb79e85-efdc-4633-a8c8-e35cbcc6dffa.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/22Sep2023-v1/50000/c6689396-fb7a-47e6-9228-94d01750ab62.root
+generator_weight: 1.0
+nevents: 6
+nfiles: 6
+nick: JetHT_Run2022A_22Sep2023
+sample_type: data
+xsec: 1.0

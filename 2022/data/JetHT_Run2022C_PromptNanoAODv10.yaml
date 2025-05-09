@@ -1,0 +1,25 @@
+dbs: /JetHT/Run2022C-PromptNanoAODv10-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/02cb1af2-d76b-4842-b7e5-19929cea9445.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/08563515-4f7d-4640-9377-1242241199d7.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/148e56b7-3225-4fc2-9e6f-68f948e35a22.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/24726187-ed58-4921-839a-2626de9b36ad.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/3189884a-aa2e-458d-af1c-18eb8f8076c2.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/5d263576-0c4a-4ef4-9e95-c2c6914b127a.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/640c51e3-d77b-4e22-8514-057fd8220a69.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/6ea0504e-d02f-407d-9a57-0d7542de50c1.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/7c2a228c-7687-4d0e-91a3-49b23ab8223c.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/892240f7-0341-4e81-8a98-8118f5f04343.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/92c29f1c-ab5e-49ed-baef-905b1d1701e3.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/d5d9cb8d-e23e-4746-97d4-58955dff6b8e.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/da02ede6-8b0f-4d90-8eed-0d0d1f7b91f3.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/df5aaeba-3b5c-4d26-82ee-bd9dad4def1d.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/eced27ce-7980-4a78-a113-536d67867c36.root
+- root://xrootd-cms.infn.it///store/data/Run2022C/JetHT/NANOAOD/PromptNanoAODv10-v1/40000/f39ac77c-0f2b-4c42-b0cc-39149cbfa7bc.root
+generator_weight: 1.0
+nevents: 16
+nfiles: 16
+nick: JetHT_Run2022C_PromptNanoAODv10
+sample_type: data
+xsec: 1.0

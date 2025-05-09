@@ -1,0 +1,15 @@
+dbs: /Tau/Run2022B-22Sep2023-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/170beeed-b863-4e38-ba06-fc1d54e84b8a.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/b1d4cc93-8a87-4c77-b601-e593c5355f90.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/b1eeffcd-f4f6-4162-a599-a086470cc9dd.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/c705ad0e-f3db-4a0b-9fcd-a99a2ff20fda.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/d2c461b7-4af2-4c53-ac21-5686d96e080d.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/Tau/NANOAOD/22Sep2023-v1/30000/ea988dd0-a36e-4cc9-bc01-10928bbea171.root
+generator_weight: 1.0
+nevents: 6
+nfiles: 6
+nick: Tau_Run2022B_22Sep2023
+sample_type: data
+xsec: 1.0

@@ -1,0 +1,11 @@
+dbs: /Tau/CMSSW_13_3_0_pre1-130X_dataRun3_v2_RelVal_2022D-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre1/Tau/NANOAOD/130X_dataRun3_v2_RelVal_2022D-v1/2580000/7bd333cd-2c8f-4aa7-a0a0-0f2219d9fba4.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre1/Tau/NANOAOD/130X_dataRun3_v2_RelVal_2022D-v1/2580000/db72bc35-aa6d-4d53-9df0-2da34b8f3acb.root
+generator_weight: 1.0
+nevents: 2
+nfiles: 2
+nick: Tau_CMSSW_13_3_0_pre1_130X_dataRun3_v2_RelVal_2022D
+sample_type: data
+xsec: 1.0

@@ -1,0 +1,25 @@
+dbs: /JetHT/Run2022B-TEST-v2/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/0f690019-a2ba-444c-8def-7b5ff880aef0.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/18c02c0e-8838-4745-9a45-c764f7274d5d.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/21e610fd-f6db-4791-b556-cd309c8ba756.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/2e2e4785-55f4-4c4a-9d2f-3b50d0ea43f4.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/6f34ea34-5ba4-4ad1-b0c4-89fb5dfee02c.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/77059b49-1506-4f00-8c51-61ce47b42702.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/803bbf6d-0c22-47d7-82aa-04df2212dbb8.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/9b28ce1c-c678-4d00-8859-daed20400ed5.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/bc5044e9-864c-4e62-a6b4-2a794ddb97ba.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/2560000/c1a5684b-de5d-41b6-aeba-7c213d0cd802.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/0cbf0c97-2122-418d-a817-b43e515d45f9.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/54818948-a76c-4bca-b698-677ad3f5e7e9.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/550d0877-2885-4fb6-9d3b-b6617cb303b9.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/5a096ed5-cf29-4d3c-bd1a-b6e0e86cbf0d.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/95c86dfd-cd65-435a-b3e5-bea879334f18.root
+- root://xrootd-cms.infn.it///store/data/Run2022B/JetHT/NANOAOD/TEST-v2/40000/d69350a7-88c4-4717-bcfc-60e24ff0421b.root
+generator_weight: 1.0
+nevents: 16
+nfiles: 16
+nick: JetHT_Run2022B_TEST
+sample_type: data
+xsec: 1.0

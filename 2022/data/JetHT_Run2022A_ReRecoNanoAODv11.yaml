@@ -1,0 +1,13 @@
+dbs: /JetHT/Run2022A-ReRecoNanoAODv11-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/ReRecoNanoAODv11-v1/50000/0892e66f-9cdd-4a79-b976-28c94c440618.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/ReRecoNanoAODv11-v1/50000/90d62961-91b9-44d8-91ca-6cad63e0cb6d.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/ReRecoNanoAODv11-v1/50000/c6f348cc-2d64-4480-a8ef-c76ded53a9de.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/JetHT/NANOAOD/ReRecoNanoAODv11-v1/50000/fe4e0b5b-c6da-45bc-a462-9392ed9c35d8.root
+generator_weight: 1.0
+nevents: 4
+nfiles: 4
+nick: JetHT_Run2022A_ReRecoNanoAODv11
+sample_type: data
+xsec: 1.0

@@ -1,0 +1,12 @@
+dbs: /Tau/Run2022A-ReRecoNanoAODv11-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022A/Tau/NANOAOD/ReRecoNanoAODv11-v1/50000/c8798aa8-2d9a-4216-83a8-8ad171564fc2.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/Tau/NANOAOD/ReRecoNanoAODv11-v1/50000/ef6e3eb3-0c74-4270-9fa2-3e704f07baa8.root
+- root://xrootd-cms.infn.it///store/data/Run2022A/Tau/NANOAOD/ReRecoNanoAODv11-v1/50000/f2c42e3c-625f-4acf-8db4-987f2c5f75b8.root
+generator_weight: 1.0
+nevents: 3
+nfiles: 3
+nick: Tau_Run2022A_ReRecoNanoAODv11
+sample_type: data
+xsec: 1.0

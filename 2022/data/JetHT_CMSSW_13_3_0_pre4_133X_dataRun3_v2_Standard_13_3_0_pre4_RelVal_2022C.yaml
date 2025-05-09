@@ -1,0 +1,12 @@
+dbs: /JetHT/CMSSW_13_3_0_pre4-133X_dataRun3_v2_Standard_13_3_0_pre4_RelVal_2022C-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre4/JetHT/NANOAOD/133X_dataRun3_v2_Standard_13_3_0_pre4_RelVal_2022C-v1/2590000/1882b0ef-ca0c-41bf-8e49-8325204974af.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre4/JetHT/NANOAOD/133X_dataRun3_v2_Standard_13_3_0_pre4_RelVal_2022C-v1/2590000/1f010f5c-e81f-4a0a-aa48-9c8ef9da174d.root
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_3_0_pre4/JetHT/NANOAOD/133X_dataRun3_v2_Standard_13_3_0_pre4_RelVal_2022C-v1/2590000/36d1572a-6a65-45da-b8ee-b9fba637a38b.root
+generator_weight: 1.0
+nevents: 3
+nfiles: 3
+nick: JetHT_CMSSW_13_3_0_pre4_133X_dataRun3_v2_Standard_13_3_0_pre4_RelVal_2022C
+sample_type: data
+xsec: 1.0

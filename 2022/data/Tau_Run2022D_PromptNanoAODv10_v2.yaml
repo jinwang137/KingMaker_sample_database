@@ -1,0 +1,19 @@
+dbs: /Tau/Run2022D-PromptNanoAODv10_v2-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2520000/334746b7-2025-4a52-820f-bb2ed3589a02.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2520000/409bf069-63d2-412b-a505-75902d3b4048.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2520000/5464165c-69ca-4867-90d3-bfeb4d7c0ce9.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2520000/c7d3f3f8-6daa-4984-be2b-3cdfd5edc6ab.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2520000/ebecfc1b-90cf-4b8b-93cb-db14b0431260.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2530000/1b6ee4ce-f6d7-4c03-a8e9-17c8d43a8686.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2530000/64b5dd92-3683-404a-ba3d-b25702b239f2.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2530000/b136127a-bdef-457c-8af7-a6af848b59be.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/2530000/ec2790d8-a704-4b40-adea-3bd28dc1246b.root
+- root://xrootd-cms.infn.it///store/data/Run2022D/Tau/NANOAOD/PromptNanoAODv10_v2-v1/50000/a51da6fd-1371-4ce9-b138-8d989ed0b339.root
+generator_weight: 1.0
+nevents: 10
+nfiles: 10
+nick: Tau_Run2022D_PromptNanoAODv10_v2
+sample_type: data
+xsec: 1.0

@@ -1,0 +1,10 @@
+dbs: /Tau/CMSSW_13_2_0_pre3-130X_dataRun3_v2_RelVal_2022B-v1/NANOAOD
+era: 2022
+filelist:
+- root://xrootd-cms.infn.it///store/relval/CMSSW_13_2_0_pre3/Tau/NANOAOD/130X_dataRun3_v2_RelVal_2022B-v1/2580000/b59e59bf-6283-452b-901f-1a59ba778829.root
+generator_weight: 1.0
+nevents: 1
+nfiles: 1
+nick: Tau_CMSSW_13_2_0_pre3_130X_dataRun3_v2_RelVal_2022B
+sample_type: data
+xsec: 1.0
